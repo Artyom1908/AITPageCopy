@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f8f8f8;
+  min-width: 100px;
+  min-height: 100%;
+  font-family: Roboto, -apple-system, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+

@@ -1,6 +1,6 @@
 import React from 'react'
-import './Page2Body.css'
-function Page2Body() {
+import './Courses.css'
+function Courses() {
     return (
         <div className='content'>
             <div className="partName">
@@ -50,4 +50,4 @@ function Page2Body() {
     )
 }
 
-export default Page2Body
+export default Courses

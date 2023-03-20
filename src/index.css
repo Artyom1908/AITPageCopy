@@ -5,9 +5,11 @@
 }
 
 body {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
   background-color: #f8f8f8;
   min-width: 100px;
   min-height: 100%;
-  font-family: Roboto, -apple-system, Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-family: Roboto, -apple-system, Helvetica, Helvetica, Arial, sans-serif;
 }
-

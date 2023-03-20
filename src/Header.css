@@ -42,3 +42,40 @@
     color: #0e243c;
     z-index: 1000;
 }
+
+.navUl #languageSelect {
+    margin-left: 4rem;
+    border: solid #0e243c 1px;
+    border-radius: 4px;
+    background-color: none;
+}
+
+.selected-lang {
+    cursor: pointer;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.selected-lang:before {
+    content: '';
+    display: block;
+    width: 32px;
+    height: 32px;
+    background-image: url(https://flagsapi.com/AM/flat/32.png);
+}
+
+.lang-menu ul {
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+    border: 1px solid #f8f8f8;
+    border-radius: 4px;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.2);
+}
+
+.lang-menu ul li a {
+    text-decoration: none;
+    display: block;
+
+}

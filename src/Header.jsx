@@ -17,7 +17,7 @@ function Header() {
                     <li>Կապ</li>
                 </ul>
             </nav>
-        </div>
+        </div >
     )
 }
 

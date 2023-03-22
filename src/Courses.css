@@ -19,6 +19,7 @@
 
 .cours {
     display: flex;
+
 }
 
 .coursConteiner {
@@ -28,6 +29,7 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    margin-bottom: 120px;
 }
 
 .coursBlock {
